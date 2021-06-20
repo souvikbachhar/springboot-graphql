@@ -1,0 +1,11 @@
+
+type Query{
+	allBankAccounts: [BankAccount]
+	bankAccount(id:ID):BankAccount
+}
+
+type BankAccount{
+	id:ID
+	name:String
+	amount:Float
+}
