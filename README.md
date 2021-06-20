@@ -1,10 +1,10 @@
 # springboot-graphql
 Spring Boot with Graphql integration
 
-#Documentation
+# Documentation
 https://github.com/graphql-java-kickstart
 
-#Playground 
+# Playground 
 localhost:8080/playground
 
 Single api endpoint for all calls
