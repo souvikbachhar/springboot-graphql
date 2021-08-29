@@ -83,6 +83,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-graphql-api</finalName>
 	</build>
-
 </project>

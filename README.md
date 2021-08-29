@@ -9,3 +9,14 @@ localhost:8080/playground
 
 Single api endpoint for all calls
 localhost:8080/graphql
+
+
+request body sample
+{
+  bankAccount(id:101){
+    name
+  }
+  allBankAccounts{
+    id
+  }
+}
